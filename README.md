@@ -25,3 +25,7 @@ This project demonstrates how to deploy a sentiment analysis model using a pre-t
 - torch
 - transformers
 - gradio
+
+## See the code Running on Loom
+- check on below link
+- https://www.loom.com/share/8b29aff0172248f4970b91a10f331289
